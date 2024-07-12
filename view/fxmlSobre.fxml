@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="594.0" prefWidth="594.0" xmlns="http://javafx.com/javafx/8.0.351" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ControllerPrincipal">
+   <children>
+      <ImageView fitHeight="604.0" fitWidth="604.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/encarte.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

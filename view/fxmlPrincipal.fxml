@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ControllerPrincipal">
+   <children>
+      <ImageView fitHeight="610.0" fitWidth="1090.0" layoutX="3.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/background_principal.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="botaoIniciar" layoutX="451.0" layoutY="156.0" mnemonicParsing="false" onAction="#botaoIniciar" prefHeight="48.0" prefWidth="185.0" style="-fx-background-color: #6699CC;" text="Iniciar" textFill="WHITE">
+         <font>
+            <Font name="Consolas" size="30.0" />
+         </font>
+      </Button>
+      <Button fx:id="botaoSobre" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#botaoSobre" prefHeight="48.0" prefWidth="185.0" style="-fx-background-color: #c89d7c;" text="Sobre" textFill="WHITE">
+         <font>
+            <Font name="Consolas" size="30.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
