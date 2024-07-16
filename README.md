@@ -10,3 +10,10 @@
 #### Projeto realizado por Hércules S. Oliveira, Graduando em Bacharelado em Ciência da Computação pela Universidade Estadual do Sudoeste da Bahia. <br>Docente da matéria e Orientador do projeto: Professor Marlos André Marques Simões de Oliveira.
 Junho do 2024
 
+_________________________________________________________________________________________
+
+![download](https://img.icons8.com/?size=50&id=86327&format=png&color=FFFFFF)
+- Sua máquina deve conter uma versão do Java compatível para garantia de que o código será compilado e executado. Versões do JDK 8 são compatíveis.
+- Baixe o repositório
+- Descompacte a pasta gerada
+- No diretório raiz da pasta descompactada, compile e execute o arquivo Principal.java
